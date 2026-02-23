@@ -1,9 +1,10 @@
 {
-  "version": "1.0",
+  "version": "2.0",
   "message": "Update Now!",
   "url": "https://google.com",
   "required": false
 }
+
 
 
 
